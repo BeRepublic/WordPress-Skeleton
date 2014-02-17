@@ -13,3 +13,6 @@
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/fleishmanhillard/w3-total-cache.git
+[submodule "content/plugins/wordpress-seo"]
+	path = content/plugins/wordpress-seo
+	url = https://github.com/fleishmanhillard/wordpress-seo.git
