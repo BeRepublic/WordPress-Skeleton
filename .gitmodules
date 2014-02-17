@@ -7,3 +7,6 @@
 [submodule "content/plugins/jetpack"]
 	path = content/plugins/jetpack
 	url = https://github.com/Automattic/jetpack.git
+[submodule "content/plugins/akismet"]
+	path = content/plugins/akismet
+	url = https://github.com/fleishmanhillard/akismet.git
