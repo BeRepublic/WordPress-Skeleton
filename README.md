@@ -1,11 +1,12 @@
 # WordPress Skeleton
 
-This is simply a skeleton repo for a WordPress site. Use it to jump-start your WordPress site repos, or fork it and customize it to your own liking!
+This a fork of the [original skeleton repo](https://github.com/markjaquith/WordPress-Skeleton) for Wordpress modified by the BeRepublic Tech Team. We have added some plugins and other common features.
 
 ## Assumptions
 
 * WordPress as a Git submodule in `/wp/`
 * Custom content directory in `/content/` (cleaner, and also because it can't be in `/wp/`)
+* The plugins are hosted in `/content/plugins/`
 * `wp-config.php` in the root (because it can't be in `/wp/`)
 * All writable directories are symlinked to similarly named locations under `/shared/`.
 
@@ -28,3 +29,26 @@ This is simply a skeleton repo for a WordPress site. Use it to jump-start your W
 
 **Q:** Does this support WordPress in multisite mode?  
 **A:** It will, starting with WordPress 3.5 (due out in December, 2012). Earlier versions of WordPress don't support Multisite when WordPress is in a subdirectory.
+
+## Plugins
+
+### Advanced Custom Fields
+
+Pin to official repository for Advanced Custom Fields WordPress plugin from https://github.com/elliotcondon/acf.git.
+
+### Jet Pack
+
+Plugin that supercharges your self-hosted WordPress site with the awesome cloud power of WordPress.com from https://github.com/Automattic/jetpack.git.
+
+### Akismet
+
+Checks your comments against the Akismet web service to see if they look like spam or not. Pin to https://github.com/fleishmanhillard/akismet.git
+
+### W3 Total Cache
+
+Easy Web Performance Optimization (WPO) using caching: browser, page, object, database, minify and content delivery network support.
+ Pin to https://github.com/fleishmanhillard/w3-total-cache.git
+
+### Wordpress SEO
+
+WordPress SEO is the most complete WordPress SEO plugin that exists today for WordPress.org users. It incorporates everything from a snippet preview and page analysis functionality that helps you optimize your pages content, images titles, meta descriptions and more to XML sitemaps, and loads of optimization options in between. Pin to https://github.com/Yoast/wordpress-seo.git
