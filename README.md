@@ -1,6 +1,6 @@
 # WordPress Skeleton
 
-This a fork of the [original skeleton repo](https://github.com/markjaquith/WordPress-Skeleton) for Wordpress modified by the BeRepublic Tech Team. We have added some plugins and other common features.
+This is a fork of the [original skeleton repo](https://github.com/markjaquith/WordPress-Skeleton) for Wordpress modified by the BeRepublic Tech Team. We have added some plugins and other common features.
 
 ## Assumptions
 
