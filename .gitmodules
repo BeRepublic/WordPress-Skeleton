@@ -13,3 +13,6 @@
 [submodule "content/plugins/wordpress-seo"]
 	path = content/plugins/wordpress-seo
 	url = https://github.com/Yoast/wordpress-seo.git
+[submodule "content/mu-plugins/wp-stack"]
+	path = content/mu-plugins/wp-stack
+	url = https://github.com/markjaquith/WP-Stack.git
