@@ -36,9 +36,9 @@ This is a fork of the [original skeleton repo](https://github.com/markjaquith/Wo
 
 Pin to official repository for Advanced Custom Fields WordPress plugin from https://github.com/elliotcondon/acf.git.
 
-### Jet Pack
+### WP-Stack
 
-Plugin that supercharges your self-hosted WordPress site with the awesome cloud power of WordPress.com from https://github.com/Automattic/jetpack.git.
+A toolkit for creating professional WordPress deployments from https://github.com/markjaquith/WP-Stack.
 
 ### Akismet
 
