@@ -16,3 +16,6 @@
 [submodule "content/mu-plugins/wp-stack"]
 	path = content/mu-plugins/wp-stack
 	url = https://github.com/markjaquith/WP-Stack.git
+[submodule "content/plugins/sucuri-scanner"]
+	path = content/plugins/sucuri-scanner
+	url = https://github.com/wp-plugins/sucuri-scanner.git
