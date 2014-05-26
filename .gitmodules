@@ -28,3 +28,6 @@
 [submodule "content/plugins/debug-bar-console"]
 	path = content/plugins/debug-bar-console
 	url = https://github.com/wp-plugins/debug-bar-console.git
+[submodule "content/plugins/debug-bar"]
+	path = content/plugins/debug-bar
+	url = https://github.com/wp-plugins/debug-bar.git
