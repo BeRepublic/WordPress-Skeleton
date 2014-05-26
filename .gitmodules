@@ -25,3 +25,6 @@
 [submodule "content/plugins/wordpress-importer"]
 	path = content/plugins/wordpress-importer
 	url = https://github.com/wp-plugins/wordpress-importer.git
+[submodule "content/plugins/debug-bar-console"]
+	path = content/plugins/debug-bar-console
+	url = https://github.com/wp-plugins/debug-bar-console.git
