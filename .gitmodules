@@ -19,3 +19,6 @@
 [submodule "content/plugins/sucuri-scanner"]
 	path = content/plugins/sucuri-scanner
 	url = https://github.com/wp-plugins/sucuri-scanner.git
+[submodule "content/plugins/google-analytics-for-wordpress"]
+	path = content/plugins/google-analytics-for-wordpress
+	url = https://github.com/Yoast/google-analytics-for-wordpress.git
