@@ -31,3 +31,6 @@
 [submodule "content/plugins/debug-bar"]
 	path = content/plugins/debug-bar
 	url = https://github.com/wp-plugins/debug-bar.git
+[submodule "content/themes/roots"]
+	path = content/themes/roots
+	url = https://github.com/roots/roots-sass.git
