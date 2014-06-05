@@ -19,6 +19,12 @@ if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
 define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/content' );
 define( 'WP_CONTENT_URL', 'http://' . $_SERVER['HTTP_HOST'] . '/content' );
 
+// ========================
+// Custom Domain
+// ========================
+define( 'WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] . '/wp' );
+define( 'WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] );
+
 // ================================================
 // You almost certainly do not want to change these
 // ================================================
