@@ -34,7 +34,7 @@ This is a fork of the [original skeleton repo](https://github.com/markjaquith/Wo
 
 ### Advanced Custom Fields
 
-Pin to official repository for Advanced Custom Fields WordPress plugin from https://github.com/elliotcondon/acf.git.
+Pin to official repository for Advanced Custom Fields WordPress plugin from https://github.com/wp-plugins/advanced-custom-fields.git.
 
 ### WP-Stack
 
