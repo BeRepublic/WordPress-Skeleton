@@ -52,3 +52,16 @@ Easy Web Performance Optimization (WPO) using caching: browser, page, object, da
 ### Wordpress SEO
 
 WordPress SEO is the most complete WordPress SEO plugin that exists today for WordPress.org users. It incorporates everything from a snippet preview and page analysis functionality that helps you optimize your pages content, images titles, meta descriptions and more to XML sitemaps, and loads of optimization options in between. Pin to https://github.com/Yoast/wordpress-seo.git
+
+### Debug Bar
+Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
+
+### Sendgrid
+Send emails throught Sendgrid from your WordPress installation using SMTP or API integration.
+
+### Sucuri Scanner
+The Sucuri WordPress Security plugin is the best security toolset for security integrity monitoring, activity monitoring and malware detection. It’s a complementary toolset to your existing security posture.
+
+### Wordpress Importer
+Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.
+
