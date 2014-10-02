@@ -34,3 +34,6 @@
 [submodule "content/themes/roots"]
 	path = content/themes/roots
 	url = https://github.com/roots/roots-sass.git
+[submodule "content/plugins/sendgrid-email-delivery-simplified"]
+	path = content/plugins/sendgrid-email-delivery-simplified
+	url = https://github.com/wp-plugins/sendgrid-email-delivery-simplified.git
