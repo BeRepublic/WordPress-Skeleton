@@ -6,7 +6,7 @@
 	url = https://github.com/wp-plugins/advanced-custom-fields.git
 [submodule "content/plugins/akismet"]
 	path = content/plugins/akismet
-	url = https://github.com/fleishmanhillard/akismet.git
+	url = https://github.com/wp-plugins/akismet.git
 [submodule "content/plugins/w3-total-cache"]
 	path = content/plugins/w3-total-cache
 	url = https://github.com/fleishmanhillard/w3-total-cache.git
